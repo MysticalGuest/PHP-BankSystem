@@ -11,11 +11,11 @@
 **项目部署：**配置好Apache和PHP环境后，将项目放入htdocs文件夹下，打开浏览器访问http://localhost/BankSystem/php/HomePage.php ,即可进入网址主页面。
 
 ## Banking system service platform
-** Development environment: ** HBuilder + SQLyog + git
+**Development environment:** HBuilder + SQLyog + git
 
-** Software Architecture: ** php + MySQL + easyui + echart
+**Software Architecture:** php + MySQL + easyui + echart
 
-** Operating environment: ** The banking system service platform is a php-based web project, a simple personal online account platform. Including some basic functions of online banking, including: transfers, transaction records, information management, announcement and user management.
+**Operating environment:** The banking system service platform is a php-based web project, a simple personal online account platform. Including some basic functions of online banking, including: transfers, transaction records, information management, announcement and user management.
 
-** Project deployment: ** After configuring the Apache and PHP environment, put the project in the htdocs folder, open a browser and visit http://localhost/BankSystem/php/HomePage.php, you can enter the main page of the URL.
+**Project deployment:** After configuring the Apache and PHP environment, put the project in the htdocs folder, open a browser and visit http://localhost/BankSystem/php/HomePage.php, you can enter the main page of the URL.
 
